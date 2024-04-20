@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(7, 7, 7);
+    text-align: center;
+
+    
+}
+h1{
+    color: rgb(231, 3, 3);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+h2{
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img{text-align: center;}
